@@ -1,0 +1,14 @@
+# environment.yml
+
+name: mental-health-llm
+dependencies:
+  - python=3.10
+  - pandas
+  - scikit-learn
+  - pytorch
+  - pip
+  - cudatoolkit=12.4 
+  - pip:
+      - transformers==4.38.0
+      - datasets
+      - kagglehub

@@ -1,0 +1,19 @@
+Class,Precision,Recall,F1-Score,Support,Model
+anxiety,0.0,0.0,0.0,13596,RoBERTa
+bipolar,0.0,0.0,0.0,5067,RoBERTa
+borderline,0.0,0.0,0.0,1845,RoBERTa
+control,0.48,0.89,0.63,53021,RoBERTa
+depression,0.31,0.2,0.25,29104,RoBERTa
+panic,0.0,0.0,0.0,988,RoBERTa
+ptsd,0.0,0.0,0.0,13802,RoBERTa
+macro avg,0.11,0.16,0.12,117423,RoBERTa
+weighted avg,0.29,0.45,0.34,117423,RoBERTa
+anxiety,0.28,0.03,0.05,13640,MentalBERT
+bipolar,0.26,0.04,0.07,5160,MentalBERT
+borderline,0.4,0.02,0.04,1893,MentalBERT
+control,0.6,0.7,0.65,53072,MentalBERT
+depression,0.34,0.51,0.41,28997,MentalBERT
+panic,0.86,0.01,0.01,1002,MentalBERT
+ptsd,0.25,0.19,0.21,13659,MentalBERT
+macro avg,0.43,0.21,0.21,117423,MentalBERT
+weighted avg,0.44,0.47,0.43,117423,MentalBERT

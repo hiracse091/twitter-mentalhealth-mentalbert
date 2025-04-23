@@ -1,0 +1,13 @@
+              precision    recall  f1-score   support
+
+     anxiety       0.00      0.00      0.00     13596
+     bipolar       0.00      0.00      0.00      5067
+  borderline       0.00      0.00      0.00      1845
+     control       0.48      0.89      0.63     53021
+  depression       0.31      0.20      0.25     29104
+       panic       0.00      0.00      0.00       988
+        ptsd       0.00      0.00      0.00     13802
+
+    accuracy                           0.45    117423
+   macro avg       0.11      0.16      0.12    117423
+weighted avg       0.29      0.45      0.34    117423

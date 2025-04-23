@@ -1,0 +1,12 @@
+.DS_*
+.git_*
+saved_models/*
+**/checkpoint-*
+logs/*
+data/*
+data/extracted/
+# Custom folders (edit as needed)
+
+Archived/*
+# Cache and log files
+*.slurm

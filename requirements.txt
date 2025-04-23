@@ -1,0 +1,7 @@
+# requirements.txt
+
+scikit-learn
+pandas
+datasets
+transformers==4.38.0
+torch

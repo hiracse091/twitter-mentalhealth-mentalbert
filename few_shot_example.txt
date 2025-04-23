@@ -1,0 +1,35 @@
+Tweet: "Do I hustle and go meet Jean-Ralphio?"
+Label: anxiety
+
+Tweet: "can I have a photoshoot laying on a blanket everytime I gain a few pounds like we do with babies"
+Label: anxiety
+
+Tweet: "I wish I wasn't sad"
+Label: depression
+
+Tweet: "not only did ed make me ill but I'm also more ill than him🙄"
+Label: depression
+
+Tweet: "Hard to speak out when you're still in the service. 🔥💪"
+Label: ptsd
+
+Tweet: "We lived in a different world then. A flat world."
+Label: ptsd
+
+Tweet: "Argh I can't think of a decent name for my WoL 😭"
+Label: borderline
+
+Tweet: "so pretty sure i'm sick. i had a fever last night & now my sinuses & head are blocked & hurt a hella lot. l:"
+Label: borderline
+
+Tweet: "Omg mine turned me gay too https://t.co/aqChANv4qW"
+Label: bipolar
+
+Tweet: "@FATWEAKTRASH I also tell my mom the stupidest details of my life bc I miss her"
+Label: bipolar
+
+Tweet: "The bar exam measures your ability to pass the bar exam. Period. It is an absolutely useless measure of your ability to counsel and advocate. It is garbage."
+Label: panic
+
+Tweet: "I must be old. I just considered writing a letter of complaint about the building across from mine and its new flashing LED strips."
+Label: panic
